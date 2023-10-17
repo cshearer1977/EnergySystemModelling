@@ -4,7 +4,6 @@ pandas>=1.4
 geopandas>=0.11.0
 xarray
 networkx
-yaml
 pyomo
 netcdf4
 pypsa>=0.22.1
